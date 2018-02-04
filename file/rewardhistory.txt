@@ -1,0 +1,16 @@
+Alex,5000,SGD 5 off a Grab Ride,2018-01-12,Yes
+Alex,50000,SGD 15 off a Deliveroo Home Delivery,2018-01-14,Yes
+Amy,5000,SGD 5 off a Gard ride,2018-01-17,No
+Amy,12000,One month free Spotify Premium Subscription,2018-01-18,No
+Amy,7000,SGD 5 off a Grab ride,2018-01-31,No
+Alex,25000,SGD 20 off Zalora Purchases,2018-02-01,No
+Alex,15000,One month free Spotify Premium Subscription,2018-02-01,No
+Alex,10000,SGD 5 off a Grab ride,2018-02-01,No
+Alex,0,One month free Spotify Premium Subscription,2018-02-01,No
+Mary,25000,SGD 20 off Zalora Purchases,2018-02-01,No
+Mary,15000,One month free Spotify Premium Subscription,2018-02-01,No
+Mary,10000,SGD 5 off a Grab ride,2018-02-01,No
+Jeff,10000,SGD 20 off Zalora Purchases,2018-01-01,No
+Jeff,15000,One month free Spotify Premium Subscription,2018-02-01,No
+Jeff,20000,SGD 5 off a Grab ride,2018-02-03,No
+John,7000,SGD 5 off a Grab ride,2018-12-12,Yes

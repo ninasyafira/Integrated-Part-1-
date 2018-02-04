@@ -1,0 +1,2 @@
+Alex,alexpw,0
+Amy,amypw,7000

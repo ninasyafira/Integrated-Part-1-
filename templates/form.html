@@ -1,0 +1,42 @@
+{% extends 'layout.html' %}
+{% block body %}
+    {% from "includes/_formhelper.html" import render_field %}
+    {% if form.errors %}
+    <div class="alert alert-danger">
+        <ul>
+            {% for field_name, field_errors in form.errors|dictsort if field_errors %}
+                {% for error in field_errors %}
+                    <li>{{ form[field_name].label }}: {{ error }}</li>
+                {% endfor %}
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    <head>
+    <style>
+        * {
+            font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+        }
+
+        body {
+            background-color: black;
+            color: white;
+        }
+
+        .jumbotron {
+            background-color: #E0346A;
+        }
+    </style>
+    </head>
+
+    <div class="jumbotron text-center">
+        <h1>Tell Us Your Idea!</h1>
+    </div>
+     <form method="POST" action="">
+        <div class="form-group">
+            {{ render_field(form.rewardidea, class_="form-control") }}
+        </div>
+         <input type="submit" value="Submit" class="btn btn-info"/>
+    </form>
+{% endblock %}

@@ -1,0 +1,5 @@
+1,SGD 5 off a Grab ride,5000,apple.jpg
+2,One month free Spotify Premium Subscription,10000,durian.jpg
+3,SGD 15 off a Deliveroo Home Delivery,17000,watermelon.jpg
+4,SGD 20 off Zalora Purchases,25000,durian.jpg
+5,SGD 10 Starbucks E-Credit,12000,orange.jpg
